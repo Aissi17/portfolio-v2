@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <header />
+    <Header />
     <nav />
     <about />
     <experience />
